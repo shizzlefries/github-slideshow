@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome yo our second slide!"
 ---
-Your text
+apple bottom jeans boots with the fur
 Use the left arrow to go back!
